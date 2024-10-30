@@ -10,3 +10,5 @@ var addDigits = function(num) {
 
     return parseInt(main[0]);
 };
+// just chekcing is it connected or not
+// add this also
